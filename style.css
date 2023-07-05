@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-color: hotpink;
+    height: 100vh;
+    padding: 100px;
+}
+.box{
+
+    width: 400px;
+    background-color: #333;
+    margin: auto;
+    padding: 80px 50px;
+    border-radius: 20px;
+}
+.box h2{
+    font-family: sans-serif;
+    padding-bottom: 50px;
+    color: aliceblue;
+}
+.box .row{
+    padding-bottom: 30px;
+}
+.row label{
+    margin-left: 10px;
+    font-family: monospace;
+    font-weight: 700;
+    color:aqua;
+    font-size: 20px;
+}
+.btn{
+    text-align: right;
+}
+.btn button{
+    font-size: 15px;
+    padding: 10px 40px;
+    background-color: pink;
+    border: none;
+    cursor: pointer;
+}
